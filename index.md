@@ -86,7 +86,7 @@ man man main
 
 
 http://github.com - automatic!
-[GitHub]
+[GitHub](http://github.com)
 
 
 
