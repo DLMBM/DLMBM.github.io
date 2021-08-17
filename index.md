@@ -26,6 +26,44 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+*italic*
+**bold**
+```
+int x = 5;
+
+```
+'int x=5'
+
+*topic artificial
+*topic healthcare
+  * big data
+  * two big data
+
+1. topic artificial
+1. topic healthcare
+  1. big data
+  1. two big data
+
+this is inline code 'int x=5' here
+
+this is inline code ```
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+
+as kanye west said
+> we are main
+>we are ```
+man man main
+```
+> we ar man
+
+this is a Image ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
