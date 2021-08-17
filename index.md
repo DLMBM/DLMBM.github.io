@@ -72,8 +72,19 @@ as kanye west said
 man man main
 ```
 > we ar man
->we are man<
-> man man man>
+> we are man
+> man man man
+
+
+> we ar man <
+
+> we are main >
+
+
+> we are man
+
+
+
 this is a Image ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
